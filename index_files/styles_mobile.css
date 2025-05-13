@@ -1,0 +1,1272 @@
+@media (max-width: 991px) {
+  .menu-sticky {
+    top: 78px;
+  }
+  .section h2 {
+    font-size: 18px;
+    line-height: 170%;
+  }
+  .exclam-wrapper {
+    width: 80px;
+  }
+  /* relief section */
+  #relief-flights .content-wrapper {
+    margin: 0px 3px !important;
+  }
+  .app-info-section .releif-flight-section {
+    padding: 60px 0 0;
+  }
+  .releif-flight-section h2 {
+    font-size: 18px;
+    line-height: 170%;
+  }
+  .releif-flight-section p {
+    font-size: 14px;
+    line-height: 170%;
+  }
+  .releif-flight-section .nav-tabs .nav-link,
+  .releif-flight-section table th,
+  .releif-flight-section table td {
+    font-size: 13px;
+    line-height: 19px;
+  }
+  .releif-flight-section table td span {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .relief-content::-webkit-scrollbar {
+    width: 0;
+  }
+  .relief-tab-wrapper {
+    margin-right: 0px;
+  }
+  /* nonstop section */
+  .nonstop-block p {
+    margin-top: 12px;
+    font-size: 14px;
+    line-height: 170%;
+    font-family: "Poppins";
+  }
+  .nonstop-block .btn {
+    margin: 30px 0;
+    font-size: 14px;
+    line-height: 19px;
+    padding: 22px;
+  }
+  .nonstop-block {
+    margin: 70px 0px 0px;
+  }
+  .nonstop-block p {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 170%;
+    color: #2b5584;
+    margin-bottom: 0px;
+    letter-spacing: 1.1px;
+  }
+  .section .nonstop-block h2 {
+    max-width: fit-content;
+  }
+  .nonstop-block h2 p {
+    background: #0b294b;
+    border-radius: 25px;
+    height: 2px;
+    max-width: 78px;
+    margin: 2px auto;
+    margin-right: 0px;
+  }
+  .nonstop-block .btn {
+    margin: 30px 0 0;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    padding: 22px;
+    width: 100%;
+  }
+  /* video section */
+  .video-wrapper {
+    padding: 110px 0 58px;
+  }
+  .video-section .overlay {
+    background: rgba(11, 11, 11, 0.4);
+  }
+  .quote-img {
+    margin-bottom: 35px;
+  }
+  .video-wrapper h2 {
+    font-size: 22px;
+    line-height: 29px;
+  }
+  .play-video {
+    margin-top: 220px;
+  }
+  .play-video h4 {
+    font-size: 14px;
+    line-height: 19px;
+  }
+  /* mobile mail section */
+  .mail-section {
+    padding: 60px 0 72px;
+    min-height: auto;
+  }
+  .mail-form {
+    display: flex;
+    align-items: center;
+  }
+  .mail-wrapper {
+    padding: 24px 0 76px;
+  }
+  .mail-wrapper h3 {
+    font-size: 22px;
+    line-height: 29px;
+    margin-right: 0px;
+  }
+  .mail-content p {
+    margin-top: 5px;
+    font-size: 14px;
+    line-height: 19px;
+  }
+  .mail-form {
+    padding: 30px 0;
+  }
+  .mail-wrapper form input {
+    margin-right: 10px;
+    padding: 32px 0px 28px 14px;
+    width: auto;
+    flex: 01;
+    font-size: 14px;
+    line-height: 19px;
+  }
+  .mail-wrapper form button {
+    margin-top: 0;
+    width: auto;
+    background: #f7a637;
+    position: relative;
+    top: 0px;
+    min-width: 80px;
+  }
+  /* mobile designs */
+  footer.mobile-footer {
+    background: #0a2949;
+    padding: 35px 13px;
+    height: auto;
+  }
+  .footer-accordion {
+    padding: 3px;
+    margin: 31px 0 40px;
+  }
+  .footer-accordion .card {
+    border: none;
+    background: transparent;
+  }
+  .footer-accordion .card-header {
+    background: transparent;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 0px;
+  }
+  .footer-accordion .btn.btn-link {
+    padding: 0px;
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 36px;
+    letter-spacing: -0.02em;
+    color: #fff;
+    min-height: 45px;
+    position: relative;
+  }
+  .footer-accordion .btn.btn-link:active,
+  .footer-accordion .btn.btn-link:focus,
+  .footer-accordion .btn.btn-link:hover {
+    background: transparent !important;
+    color: #f79e1b !important;
+    text-decoration: none;
+  }
+  .footer-accordion .btn.btn.btn-link svg {
+    position: absolute;
+    right: 0px;
+    top: 14px;
+  }
+  .footer-accordion ul {
+    padding-left: 0px;
+    margin: 0px;
+  }
+  .footer-accordion ul li {
+    list-style: none;
+    padding-bottom: 20px;
+  }
+  .footer-accordion ul li:last-child {
+    padding-bottom: 0px;
+  }
+  .footer-accordion ul li a {
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #fffffe;
+    padding: 0.2rem 0;
+  }
+  .footer-accordion ul li a:hover,
+  .footer-accordion ul li a:focus,
+  .footer-accordion ul li a:active {
+    color: #f79e1b;
+    text-decoration: none;
+  }
+  .phn_no {
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 36px;
+    color: #ffffff;
+    padding: 0 1px;
+  }
+  .phn_no:hover,
+  .phn_no:focus,
+  .phn_no:active {
+    color: #f79e1b;
+    text-decoration: none;
+  }
+  .footerLangSelect .btn.btn-secondary {
+    background: transparent !important;
+    color: #fff !important;
+    border: none !important;
+    padding: 2px !important;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 36px;
+    letter-spacing: -0.02em;
+    color: rgba(255, 255, 255, 0.8) !important;
+  }
+  .footerLangSelect .btn.btn-secondary.dropdown-toggle::after {
+    /* background: url('./../img/arrow.svg');
+    position: static;
+    top: auto;
+    right: auto;
+    margin-left: 0.4rem; */
+    content: none;
+  }
+  .footerLangSelect .dropdown-menu {
+    padding: 0;
+    margin: 0;
+    left: auto;
+    right: 0px;
+  }
+  .footerLangSelect .dropdown-menu .dropdown-item {
+    box-shadow: none;
+    background: none;
+    margin: 0px;
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 36px;
+    letter-spacing: -0.02em;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: right;
+    padding-right: 44px;
+  }
+  .footerLangSelect .dropdown-menu .dropdown-item:focus,
+  .footerLangSelect .dropdown-menu .dropdown-item:hover,
+  .footerLangSelect .dropdown-menu .dropdown-item:active {
+    color: rgba(255, 255, 255, 1) !important;
+    background: transparent !important;
+  }
+  h5 {
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 36px;
+    letter-spacing: -0.02em;
+    margin-top: 25px;
+    color: rgba(255, 255, 255, 0.5);
+    padding: 0 1px;
+  }
+  .social-icon-list div {
+    margin-right: 25px;
+    cursor: pointer;
+    opacity: 0.5;
+  }
+  .social-icon-list div:hover {
+    opacity: 1;
+  }
+  .social-icon-list svg {
+    width: 24px;
+    height: 24px;
+  }
+  .top-banner {
+    padding: 12px 0;
+  }
+  .covid-info-link {
+    text-transform: none;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #ffffff !important;
+    letter-spacing: 0.8px;
+    width: fit-content;
+    cursor: pointer;
+  }
+  .covid-info-link svg {
+    margin-left: 16px;
+  }
+  .mobile-navbar {
+    margin: 15px 0 !important;
+    padding: 0px !important;
+  }
+  .mobile-navbar.navbar-light .navbar-toggler {
+    background: transparent;
+    box-shadow: none;
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0px;
+    position: relative;
+    right: auto;
+    z-index: 0;
+  }
+  .mobile-navbar.navbar-light .navbar-toggler span {
+    font-family: "Futura";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    color: #0a2949;
+    margin-right: 12px;
+    position: relative;
+    top: 2px;
+  }
+  .mobile-navbar.navbar-light .navbar-toggler:active,
+  .mobile-navbar.navbar-light .navbar-toggler:focus {
+    background: transparent !important;
+  }
+  .inner-navbar nav.mobile-navbar {
+    position: relative;
+  }
+  nav.mobile-navbar.fixed-nav {
+    padding: 0px !important;
+    /* margin: 12px 0 !important; */
+  }
+  nav.white-bg-navbar {
+    padding: 0px !important;
+  }
+  .mobile-navbar .navbar-toggler.fixed-nav-btn {
+    right: 0px !important;
+  }
+  .mobile-navbar .navbar-toggler.fixed-nav-btn span {
+    color: #fff;
+  }
+  .mobile-navbar .navbar-toggler.fixed-nav-btn svg rect {
+    fill: #fff;
+  }
+  .mobile-navbar .navbar-collapse .navbar-nav .nav-link {
+    color: #0b294b;
+    padding: 0px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    font-family: "Futura";
+    padding: 20px 48px;
+    text-align: left;
+  }
+  .mobile-navbar .navbar-collapse .navbar-nav .nav-link.active {
+    color: #f7a637;
+  }
+  .mobile-navbar .navbar-collapse .navbar-nav .nav-link:active,
+  .mobile-navbar .navbar-collapse .navbar-nav .nav-link:focus,
+  .mobile-navbar .navbar-collapse .navbar-nav .nav-link:hover {
+    background: #f6f6ff;
+  }
+  .mobile-navbar .navbar-collapse {
+    box-shadow: rgba(11, 41, 75, 0.15) 0px 4px 20px;
+    width: 0%;
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    height: 100%;
+    right: 0px;
+    background: #fff;
+  }
+  .mobile-navbar .collapse.show {
+    width: 40%;
+    transition: 0.5s;
+  }
+  .mobile-navbar .close {
+    background: #f7a637;
+    box-shadow: 0px 4px 4px rgba(247, 158, 27, 0.25);
+    border-radius: 6px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 32px 32px 0;
+    opacity: 1;
+  }
+  /* about us label */
+  .aboutus-label h2 {
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #0b294b;
+    margin: 10px 0 30px;
+    text-transform: uppercase;
+  }
+  .top-banner .content-wrapper {
+    margin: 0 15px !important;
+  }
+  /* about us - owl carousel */
+  .statis-block {
+    background: #fff;
+  }
+  .statis-block .content-wrapper {
+    margin: 0px 15px !important;
+    text-align: center;
+    padding: 53px 0px 33px;
+  }
+  .statis-block h2 {
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 29px;
+    margin-bottom: 30px;
+  }
+  .statis-block h4 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 176.09%;
+    padding-top: 46px;
+  }
+  .statis-block .card {
+    box-shadow: 0px 4px 20px rgba(11, 41, 75, 0.2);
+    height: 400px;
+    margin: 20px 14px;
+  }
+  .statis-block .card-line {
+    margin-bottom: 70px;
+  }
+  .statis-block .owl-item.active .item {
+    margin: 52px 0;
+  }
+  .statis-block .owl-item.active .item .card {
+    transform: none;
+    transform: scaleY(1.2);
+  }
+  .statis-block .owl-dots {
+    margin-top: 20px;
+  }
+  .statis-block .owl-dots .owl-dot span {
+    width: 8px;
+    height: 8px;
+    margin: 5px 7px;
+    background: rgba(247, 158, 27, 0.5);
+    display: block;
+    /* -webkit-backface-visibility: visible; */
+    transition: opacity 0.2s ease;
+    border-radius: 30px;
+    border-radius: 5px;
+  }
+  .statis-block .owl-dots .owl-dot.active span,
+  .statis-block .owl-dots .owl-dot:hover span {
+    background: #f7a637;
+  }
+  .statis-block .owl-dots .owl-dot.active span {
+    width: 30px;
+  }
+  .next-block-mob {
+    flex-direction: row;
+    text-align: center;
+    margin-top: 40px !important;
+  }
+  .booking-container .exclam-wrapper {
+    width: 21px;
+    padding: 8px;
+  }
+  .back-btn {
+    padding: 15px 0px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .next-btn {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    justify-content: unset;
+    padding: 18px 25px;
+    position: relative;
+  }
+  .next-btn img {
+    width: 32px;
+    height: 33px;
+    position: absolute;
+    right: 35px;
+  }
+  .next-btn.disabled img {
+    height: auto;
+    width: auto;
+  }
+  .pax-contact {
+    padding-top: 6px !important;
+  }
+  .booking-navbar nav.fixed-nav {
+    padding: 12px 0 !important;
+  }
+  .mobile-navbar.navbar-light .navbar-toggler svg {
+    margin-top: 6px;
+  }
+  /* app section */
+  .app-info-section {
+    padding: 80px 0 100px;
+  }
+  .app-info-section h3 {
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 23px;
+    letter-spacing: -0.02em;
+    color: #f79e1b;
+    margin-bottom: 10px;
+  }
+  .app-info-section p {
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: -0.02em;
+    color: #0a2949;
+    margin-bottom: 0px;
+  }
+  .app-info-section .btn.btn-outline-success {
+    background: #ffffff;
+    border: 1px solid #f7a637;
+    box-sizing: border-box;
+    border-radius: 3px;
+    height: 36px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .app-info-section .btn.btn-outline-success:hover,
+  .app-info-section .btn.btn-outline-success:focus,
+  .app-info-section .btn.btn-outline-success:active {
+    border-color: #0a2949;
+  }
+  .app-info-section .btn.btn-outline-success:hover svg path,
+  .app-info-section .btn.btn-outline-success:focus svg path,
+  .app-info-section .btn.btn-outline-success:active svg path {
+    fill: #0a2949;
+  }
+  .app-info-section .btn.btn-outline-success:first-of-type {
+    margin-bottom: 11px;
+  }
+  .full-height-section {
+    min-height: auto;
+  }
+  .video-section.full-height-section {
+    min-height: 660px;
+  }
+  .scroll-btn {
+    display: none;
+  }
+  .primary-btn {
+    padding: 14px 0;
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .success-msg {
+    background: none;
+  }
+  .success-msg .d-flex p {
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0.02em;
+    color: #0b294b;
+    margin: 30px 0 0;
+    text-align: center;
+  }
+  .success-msg .btn.primary-btn {
+    width: 100% !important;
+  }
+  .ticket-conf-block {
+    background: #ffffff;
+    box-shadow: 0px 0px 10px rgba(151, 151, 151, 0.2);
+    border-radius: 5px;
+    padding: 15px 18px;
+  }
+  .ticket-conf-block .travel-route {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 18px;
+    color: #0b294b;
+    margin: 0 0 0 12px;
+  }
+  .ticket-conf-block .travel-route small {
+    display: block;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+    color: #4f4f4f;
+    margin: 0 0 6px;
+  }
+  .msg-wrapper {
+    height: auto;
+  }
+  .confirm-code-block .text-muted {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+    color: #828282;
+  }
+  .success-msg .primary-btn.mobile-hide {
+    display: none;
+  }
+  /* Landing header page */
+  .landing-header-container {
+    background: #ebf0f3;
+  }
+  .landing-header-container .nav-tabs {
+    right: 0;
+    margin: 0 auto;
+    top: 0px;
+    width: 100%;
+  }
+  /* .landing-header-container .nav-tabs .nav-item:last-child {
+        margin-bottom: -1px !important;
+    } */
+  .landing-header-container .nav-tabs .nav-item {
+    flex: 1 1 auto;
+    margin-bottom: 1px;
+  }
+  .landing-header-container .nav-tabs .nav-link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    color: #0a2949;
+    padding: 12px 0px 10px;
+    text-align: center;
+    text-transform: none;
+    margin-bottom: -1px;
+  }
+  .landing-header-container .nav-tabs .nav-link.active {
+    border-color: #0a2949;
+    border-width: 2px;
+    border-bottom: 2px solid #0a2949;
+    background: transparent;
+  }
+  .landing-header-container .nav-tabs .nav-item:last-of-type .nav-link {
+    padding-right: 0px;
+  }
+  .landing-header-container .tab-content {
+    margin: 0px;
+    /* background: url("./../img/main.jpg") no-repeat center;
+    background-size: cover; */
+    position: relative;
+    min-height: 512px;
+  }
+  .landing-header-container .tab-content .overlay {
+    background: rgba(47, 47, 47, 0.3);
+    z-index: 0;
+  }
+  .landing-header-container .carousel {
+    height: auto;
+    padding: 0 15px;
+    min-height: 140px;
+  }
+  .landing-header-container h1 {
+    text-transform: uppercase;
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 29px;
+    color: #fffffe;
+    margin: 20px 0 10px;
+  }
+  .landing-header-container h1 span {
+    font-weight: bold;
+    margin-top: 5px;
+    display: block;
+  }
+  .landing-header-container p {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 170%;
+    color: #fffffe;
+    margin: 0px;
+  }
+  .landing-header-container .tab-pane {
+    padding: 52px 15px 58px;
+  }
+  .landing-header-container .flight-search-block .form-group,
+  .landing-header-container .flight-criteria-block .form-group {
+    margin-bottom: 1px;
+  }
+  .landing-header-container .route-select input,
+  .landing-header-container .route-select .search-input,
+  .landing-header-container .flight-search-block .dropdown-toggle,
+  .landing-header-container .flight-criteria-block input {
+    height: 64px;
+    color: #0a2949;
+    padding: 18px;
+    padding-left: 40px;
+    background: #fffffe;
+    box-shadow: 0px 4px 20px rgba(11, 41, 75, 0.15);
+    border-radius: 5px;
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+  }
+  .landing-header-container .flight-search-block .dropdown-toggle,
+  .landing-header-container #manageTrip .flight-criteria-block input {
+    padding-left: 14px;
+  }
+  .landing-header-container .flight-search-block .actions {
+    display: none;
+  }
+  .landing-header-container
+    .route-select
+    .search-input
+    .selected-autocomplete
+    span {
+    left: 4px;
+  }
+  .landing-header-container .flight-criteria-block label {
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 18px;
+    color: #fffffe;
+    display: none;
+  }
+  .landing-header-container .show > .btn-secondary.dropdown-toggle,
+  .landing-header-container .route-select button:focus,
+  .landing-header-container .route-select button:active {
+    background: #fffffe !important;
+  }
+  .landing-header-container .flight-search-block .dropdown-toggle:after {
+    right: 25px;
+    position: absolute;
+  }
+  .header-banner .wpb_wrapper {
+    background: none;
+  }
+  .explore-block {
+    margin: 0 !important;
+    width: 100%;
+    padding: 0 15px !important;
+  }
+  .explore-block h2 {
+    margin-bottom: 16px;
+    width: max-content;
+  }
+  .section.explore {
+    background: #fff;
+    padding-bottom: 60px;
+  }
+  .image-card {
+    background: rgba(11, 41, 75, 0.3);
+    border-radius: 5px;
+    min-height: 160px;
+    max-height: 160px;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 16px;
+    position: relative;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+  }
+  .image-card.one {
+    background: url("./../img/main.jpg") no-repeat center;
+    background-size: cover;
+  }
+  .image-card.two {
+    background: url("./../img/2.png") no-repeat center;
+    background-size: cover;
+  }
+  .image-card.three {
+    background: url("./../img/3.png") no-repeat center;
+    background-size: cover;
+  }
+  .image-card.four {
+    background: url("./../img/4.png") no-repeat center;
+    background-size: cover;
+  }
+  .image-card.five {
+    background: url("./../img/3.png") no-repeat center;
+    background-size: cover;
+  }
+  .image-card .overlay {
+    background: rgba(11, 41, 75, 0.3);
+    z-index: 1;
+  }
+  .image-card .card-info {
+    z-index: 10;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  .image-card .card-info h6 {
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 29px;
+    color: #ffffff;
+    margin: 0 0 10px;
+  }
+  .image-card .card-info ul {
+    list-style: none;
+    padding-left: 0px;
+    margin: 0px;
+    display: flex;
+  }
+  .image-card .card-info ul li {
+    color: #ffffff;
+    font-family: "Futura";
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    padding: 0 5px;
+  }
+  .image-card .card-info ul li::before {
+    content: "";
+    width: 5px;
+    height: 5px;
+    background: #ffffff;
+    display: inline-block;
+    margin-right: 20px;
+    border-radius: 50%;
+    position: relative;
+    top: -2px;
+  }
+  .image-card .card-info ul li:first-child::before {
+    content: none;
+  }
+  .image-card .bird-bg {
+    width: 46px;
+    height: 40px;
+    box-shadow: 0px 4px 20px rgba(11, 41, 75, 0.2);
+    border-radius: 5px;
+    background: #fffffc url("./../img/bird.svg") no-repeat;
+    background-size: 50%;
+    background-position: center;
+    position: absolute;
+    bottom: 0;
+    z-index: 10;
+    right: 0px;
+  }
+  .image-card a {
+    top: auto;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+  }
+  .image-card a:hover {
+    text-decoration: none;
+  }
+  .explore-block h2 p {
+    background: #0b294b;
+    border-radius: 25px;
+    height: 2px;
+    max-width: 78px;
+    margin: 2px auto;
+    margin-right: 0px;
+  }
+  .explore-block .btn.btn-outline-primary {
+    border: 1px solid #0a2949;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: #0a2949;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 64px;
+  }
+  .explore-block .btn.btn.btn-outline-primary svg {
+    width: 15px;
+    position: relative;
+    top: 2px;
+    margin-left: 12px;
+  }
+  .explore-block .btn.btn-outline-primary:hover,
+  .explore-block .btn.btn-outline-primary:focus,
+  .explore-block .btn.btn-outline-primary:active {
+    background: #0a2949;
+    color: #fff;
+    border-color: #0a2949;
+  }
+  .explore-block .btn.btn-outline-primary:hover svg path,
+  .explore-block .btn.btn-outline-primary:focus svg path,
+  .explore-block .btn.btn-outline-primary:active svg path {
+    fill: #fff;
+  }
+  .mobile-navbar.navbar-light .navbar-nav .aboutus-menu ul.dropdown-menu,
+  .mobile-navbar.navbar-light
+    .navbar-nav#menu-top-main-menu
+    .aboutus-menu
+    ul.dropdown-menu
+    li.nav-item
+    .nav-link {
+    box-shadow: none !important;
+    border-radius: 0;
+    border: none !important;
+  }
+  .mobile-navbar.navbar-light
+    .navbar-nav
+    .aboutus-menu
+    ul.dropdown-menu
+    li.nav-item
+    .nav-link,
+  .mobile-navbar.navbar-light
+    .navbar-nav#menu-top-main-menu
+    .aboutus-menu
+    ul.dropdown-menu
+    li.nav-item
+    .nav-link {
+    padding: 18px 15px 18px 70px;
+    font-size: 15px;
+    line-height: 20px;
+    color: #0b294b;
+    font-family: "Futura";
+  }
+  .mobile-navbar.navbar-light .navbar-nav .nav-item {
+    margin: 0px;
+  }
+  .mobile-navbar.navbar-light.white-bg-navbar.fixed-nav .navbar-nav .nav-link {
+    color: #0b294b;
+  }
+  .mobile-navbar.navbar-light .navbar-nav .nav-link:hover,
+  .mobile-navbar.navbar-light .navbar-nav .nav-link:active,
+  .mobile-navbar.navbar-light .navbar-nav .nav-link:focus,
+  .mobile-navbar.navbar-light .navbar-nav .nav-item.active .nav-link,
+  .mobile-navbar.navbar-light .navbar-nav .active > .nav-link,
+  .mobile-navbar.navbar-light .navbar-nav .nav-link.active,
+  .mobile-navbar.navbar-light .navbar-nav .nav-link.show,
+  .mobile-navbar.navbar-light .navbar-nav .show > .nav-link {
+    color: #f7a637;
+  }
+  .mobile-navbar.navbar-light
+    .navbar-nav
+    .nav-item
+    .nav-link.dropdown-toggle:after {
+    background: url("../img/arrow_b.svg") !important;
+  }
+  .mobile-navbar.navbar-light
+    .navbar-nav#menu-top-main-menu-1
+    .aboutus-menu
+    ul.dropdown-menu
+    li.nav-item
+    .nav-link:after {
+    content: "";
+    border: none;
+    background: url(../img/arrow_b.svg);
+    display: inline-block;
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    right: 10px;
+    background-size: 15px;
+    background-repeat: no-repeat;
+    transform: rotate(-90deg);
+    margin-top: 3px;
+  }
+  .flight-status-tab .search-block.my-trip-block {
+    padding: 0px;
+    background: transparent;
+    /* min-height: auto; */
+    box-shadow: none;
+  }
+  .flight-status-tab .search-block.my-trip-block .tab-content {
+    background: none;
+    min-height: auto;
+  }
+  .flight-status-tab .search-block.my-trip-block .tab-content .tab-pane {
+    padding: 20px 0px;
+  }
+  .landing-header-container .tab-pane.flight-status-tab {
+    padding: 15px 15px 0;
+  }
+  .landing-header-container .flight-status-tab .nav-tabs .nav-link {
+    color: #fff;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 0px;
+    text-transform: uppercase;
+  }
+  .landing-header-container .flight-status-tab .nav-tabs .nav-link.active {
+    background: transparent;
+    border-bottom: 2px solid #f7a637;
+  }
+  .video-section video {
+    object-position: 11% center;
+  }
+  .ticket-detail-btn.btn {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+    color: #0b294b;
+    background: transparent;
+    box-shadow: 0px 0px 10px rgba(151, 151, 151, 0.2);
+    padding: 12px;
+    width: 100%;
+    text-align: left;
+    height: 69px;
+    margin: 30px 0;
+    position: relative;
+  }
+  .ticket-detail-btn.btn::before {
+    content: "";
+    width: 6px;
+    height: 6px;
+    display: inline-block;
+    vertical-align: 0.155em;
+    margin-right: 0.8em;
+    background: #0a2949;
+    border-radius: 50%;
+  }
+  .ticket-detail-btn.btn::after {
+    content: "";
+    width: 14px;
+    height: 8px;
+    display: inline-block;
+    position: absolute;
+    right: 12px;
+    transform: rotate(270deg);
+    top: 52%;
+    background: url("./../img/arrow_b.svg") no-repeat center;
+  }
+  .ticket-detail-btn.btn:focus,
+  .ticket-detail-btn.btn:active,
+  .ticket-detail-btn.btn:hover {
+    box-shadow: 0px 0px 10px rgba(151, 151, 151, 0.2) !important;
+    color: #f79e1b;
+  }
+  .mobile-fare-summary {
+    position: absolute;
+    z-index: 1;
+    background: #ffff;
+    height: 100%;
+    width: 100%;
+    right: 0;
+    padding: 0px 15px;
+    top: 0px;
+    /* transition: 1s; */
+  }
+  .floating-accordion {
+    box-shadow: none;
+    position: relative;
+    top: auto;
+    z-index: 0;
+    border: none;
+    padding: 0;
+    height: auto;
+  }
+  .floating-accordion h5 {
+    margin-top: 0px;
+  }
+  .floating-accordion .card-header {
+    padding: 12px 36px;
+    border-radius: 4px;
+  }
+  .mobile-fare-summary h4,
+  .mobile-fare-summary h4 button {
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 20px;
+    color: #0b294b;
+    margin: 30px 0;
+  }
+  #priceAcc .card-body .taxes-row {
+    justify-content: normal;
+  }
+  .nonstop-block.mobile-show {
+    display: none;
+  }
+  .nonstop-block.mobile-hide {
+    display: flex;
+  }
+  .line-non {
+    background: #0b294b;
+    border-radius: 25px;
+    height: 2px;
+    max-width: 78px;
+    margin: 2px auto;
+    margin-right: 0px;
+  }
+  .daterangepicker .drp-calendar {
+    padding: 20px 30px !important;
+    min-width: auto;
+    /* min-height: 490px; */
+  }
+  .daterangepicker .calendar-table td {
+    padding: 10px 8px;
+  }
+  .daterangepicker .dtFooter {
+    padding: 20px 40px;
+  }
+  .content-wrapper.footer-lang {
+    margin: 0 !important;
+    /* max-width: 41.666667%; */
+  }
+  .content-wrapper.footer-lang .switcher {
+    max-width: none;
+    position: absolute;
+    right: -6px;
+  }
+  .content-wrapper.footer-lang .switcher .option {
+    max-width: 128px;
+  }
+  .content-wrapper.footer-lang .switcher a img {
+    margin-right: 2px;
+  }
+  .content-wrapper.footer-lang .switcher .selected a:after {
+    background-size: 20px;
+    right: 29px;
+  }
+  .hide-desktop-bg-img {
+    background: none !important;
+  }
+  .flight-search-block .input-group .form-control.dates_dpicker {
+    box-shadow: none;
+  }
+  .flight-search-block .route-select .label-block {
+    left: 10px;
+  }
+  .date-sect {
+    width: 50%;
+  }
+  .landing-header-container .tab-content {
+    min-height: 576px;
+  }
+  .landing-header-container .tab-pane#manageTrip {
+    padding: 120px 15px 58px;
+  }
+}
+
+@media (max-width: 991px) and (min-width: 576px) {
+  .landing-header-container .date-wrapper {
+    padding-right: 1px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .landing-header-container .tab-content {
+    min-height: 600px;
+  }
+  .landing-header-container .carousel {
+    min-height: 210px;
+  }
+  .back-btn {
+    margin: 0px !important;
+    padding: 6px 0px;
+    margin: 0px !important;
+  }
+  .next-block-mob {
+    flex-direction: column-reverse;
+  }
+  .nonstop-block.mobile-show {
+    display: block;
+  }
+  .nonstop-block.mobile-hide {
+    display: none;
+  }
+  .mobile-navbar .collapse.show {
+    width: 60%;
+  }
+  .landing-header-container .tab-pane {
+    padding: 20px 15px 44px;
+  }
+  .landing-header-container .tab-pane#manageTrip {
+    padding: 88px 15px 58px;
+  }
+}
+
+@media (max-width: 576px) {
+  .mobile-navbar .collapse.show {
+    width: 80%;
+  }
+  .ui-widget.ui-widget-content {
+    z-index: 1000;
+    left: 0px !important;
+  }
+  .nonstop-block .nonstop-map {
+    min-height: 460px;
+    margin: 20px 0;
+  }
+  .pay-fail-section .content-wrapper {
+    text-align: center;
+  }
+  .pay-fail-section .warning-msg {
+    background-size: 56%;
+    background-position: center;
+  }
+  .pay-fail-section .primary-btn {
+    width: 100% !important;
+  }
+  .pay-fail-section .msg-wrapper div:last-of-type {
+    margin-bottom: 200px;
+  }
+  .pay-fail-section .d-flex {
+    align-items: flex-start;
+  }
+  .pay-fail-section .d-flex img {
+    position: relative;
+    top: 4px;
+  }
+  .landing-header-container .tab-content {
+    min-height: 712px;
+  }
+  .litepicker .container__months .month-item {
+    padding: 5px;
+  }
+  .litepicker .container__months .month-item-header .button-previous-month,
+  .litepicker .container__months .month-item-header .button-next-month {
+    position: static;
+    left: auto;
+    top: auto;
+    right: auto;
+  }
+}
+
+@media (min-width: 380px) and (max-width: 768px) {
+  .embark-block {
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+  }
+}
+
+@media (max-width: 320px) {
+  .landing-header-container .carousel {
+    min-height: 240px;
+  }
+}
